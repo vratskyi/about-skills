@@ -29,7 +29,9 @@
 ### Design Tools
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🔗 Links
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VoaXV0d3Iyc3lmM3h6a3d1dTlzeG9ibjF6ZWV5eXgxMHZrNnJreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BlWF2vzpIPB0A/giphy.gif" width="320px" height="350px">
 
+## 🔗 Links
+[<img src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" width="40px" height="40px">](https://www.behance.net/alexvracky)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://vratskyi.github.io/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vratskyi)
